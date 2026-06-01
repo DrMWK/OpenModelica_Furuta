@@ -14,7 +14,7 @@ Content
 
 4 OpenModelica Package for step-by-step build-up of the model
 
-Remark: design and dimensions of the pendelum are oriented on the following model including CAD data: 
+Remark: design and dimensions of the pendelum are oriented on the following model including CAD data:
 https://github.com/bgkatz/Furuta-Pendulum
 
 
