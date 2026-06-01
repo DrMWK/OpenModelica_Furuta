@@ -12,7 +12,7 @@ Content
 
 #3 FMU of the 3 level actuator model
 
-#4 OpenModelica Package for step-by-step build-up of the model
+#4 OpenModelica Package for step-by-step build-up of the model (Furuta_Steps.mo)
 
 Remark: design and dimensions of the pendelum are oriented on the following model including CAD data:
 
