@@ -6,7 +6,7 @@ Content
 1 OpenModelica Package with the following submodels
 - mechanic model of the pendelum
 - actuator model with 3 degrees of abstraction
-- entire system including closed loop control
+- entire system including a very simple closed loop control
 
 2 FMU of the mechanic model
 
@@ -15,7 +15,8 @@ Content
 4 OpenModelica Package for step-by-step build-up of the model
 
 Remark: design and dimensions of the pendelum are oriented on the following model including CAD data:
-https://github.com/bgkatz/Furuta-Pendulum
+
+www.github.com/bgkatz/Furuta-Pendulum
 
 
 Copyright (c) 2026 Markus Kemmner
