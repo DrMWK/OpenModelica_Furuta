@@ -18,7 +18,8 @@ Remark: design and dimensions of the pendelum are oriented on the following mode
 
 www.github.com/bgkatz/Furuta-Pendulum
 
-
+-
+-
 Copyright (c) 2026 Markus Kemmner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
