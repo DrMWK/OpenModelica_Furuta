@@ -4,8 +4,8 @@ Model of a Furuta Pendelum in OpenModelica
 Content
 
 #1 OpenModelica Package including
-- mechanic (sub)model of the pendelum
-- actuator (sub)model with 3 degrees of abstraction
+- mechanic (sub)model of the pendelum (OpenModelica/Multibody)
+- actuator (sub)model with 3 degrees of abstraction (ideal/including dynamic response/enhanced; no detailed electro-dynamic modeling)
 - entire system including a very simple closed loop control
 
 #2 FMU of the mechanic model
