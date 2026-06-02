@@ -3,10 +3,10 @@ Model of a Furuta Pendelum in OpenModelica for potential didactic use
 
 Content
 
-#1 OpenModelica Package including
+#1 OpenModelica Package (>>>>>!!!!!!!!!!!!!!!<<<<<<) including
 - mechanic (sub)model of the pendelum (OpenModelica/Multibody)
 - actuator (sub)model with 3 degrees of abstraction (ideal/including dynamic response/enhanced; no detailed electro-dynamic modeling)
-- entire system including a very simple closed loop control
+- entire system including a (simple) closed loop control
 
 #2 FMU of the mechanic model (Pendel_Mechanik_fin_02.fmu)
 
@@ -14,13 +14,15 @@ Content
 
 #4 OpenModelica Package for step-by-step build-up of the model (Furuta_Steps.mo)
 
-Remark: design and dimensions of the pendelum are oriented on the following Furuta pendelum / model including CAD data:
+#5 Python Script for visualizing the torque step response of the actuator model (Charac_Akt_V04.py)
 
+
+Remark: design and dimensions of the pendelum are oriented on the following Furuta pendelum / model including CAD data:
 www.github.com/bgkatz/Furuta-Pendulum
 
 
 
-Copyright (c) 2026 Markus Kemmner
+Copyright (c) 2026 DrMWK
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
