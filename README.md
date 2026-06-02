@@ -8,9 +8,9 @@ Content
 - actuator (sub)model with 3 degrees of abstraction (ideal/including dynamic response/enhanced; no detailed electro-dynamic modeling)
 - entire system including a very simple closed loop control
 
-#2 FMU of the mechanic model
+#2 FMU of the mechanic model (Pendel_Mechanik_fin_02.fmu)
 
-#3 FMU of the 3 level actuator model
+#3 FMU of the 3 level actuator model (Akt_gestuft_fin_01.fmu)
 
 #4 OpenModelica Package for step-by-step build-up of the model (Furuta_Steps.mo)
 
