@@ -1,4 +1,44 @@
 # OpenModelica_Furuta - still under construction
+Modell eines Furuta-Pendels in OpenModelica für Anwendungen in der Lehre
+
+Inhalt
+
+#1 OpenModelica-Paket (>>>>>!!!!!!!!!!!!!!!<<<<<<), bestehend aus:
+- mechanisches Teilmodell des Pendels (OpenModelica/Multibody)
+- Teilmodell Aktuator-(Unter-)Modell mit drei Abstraktionsstufen:
+   - ideal
+   - mit dynamischem Antwortverhalten
+   - erweitert
+     (Hinweis: keine detaillierte elektrodynamische Modellierung)
+- Gesamtsystem einschließlich einer (einfachen) Regelung im geschlossenen Regelkreis
+
+#2 FMU des mechanischen Teilmodells
+(Pendel_Mechanik_fin_02.fmu)
+
+#3 FMU des dreistufigen Aktuatormodells
+(Akt_gestuft_fin_02.fmu)
+
+#4 OpenModelica-Paket zum Schritt-für-Schritt Aufbau des Modells
+(Furuta_Steps.mo)
+
+#5 Python-Skript zur Visualisierung der Drehmoment-Sprungantwort des Aktuatormodells
+(Charac_Akt_V04.py)
+
+Hinweis: Konstruktive Ausführung und Abmessungen des Pendels orientieren sich am folgenden Furuta-Pendel bzw. Modell einschließlich CAD-Daten:
+www.github.com/bgkatz/Furuta-Pendulum
+
+Lizenz
+
+Copyright (c) 2026 DrMWK
+
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhält, unentgeltlich die Erlaubnis erteilt, die Software uneingeschränkt zu nutzen. Dies umfasst insbesondere das Recht, die Software zu verwenden, zu kopieren, zu verändern, zusammenzuführen, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen sowie Personen, denen die Software zur Verfügung gestellt wird, diese Rechte einzuräumen, sofern die folgenden Bedingungen erfüllt werden:
+
+Der oben genannte Copyright-Hinweis sowie dieser Genehmigungstext müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
+
+DIE SOFTWARE WIRD „WIE BESEHEN“ BEREITGESTELLT, OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG. DIES SCHLIESST UNTER ANDEREM DIE GEWÄHRLEISTUNGEN DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER AUS. IN KEINEM FALL HAFTEN DIE AUTOREN ODER COPYRIGHT-INHABER FÜR ANSPRÜCHE, SCHÄDEN ODER SONSTIGE VERPFLICHTUNGEN, SEI ES AUS VERTRAG, UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE SICH AUS DER SOFTWARE ODER IHRER NUTZUNG ODER AUS SONSTIGEN VORGÄNGEN IM ZUSAMMENHANG MIT DER SOFTWARE ERGEBEN.
+
+
+
 Model of a Furuta Pendelum in OpenModelica for potential didactic use 
 
 Content
@@ -10,7 +50,7 @@ Content
 
 #2 FMU of the mechanic model (Pendel_Mechanik_fin_02.fmu)
 
-#3 FMU of the 3 level actuator model (Akt_gestuft_fin_01.fmu)
+#3 FMU of the 3 level actuator model (Akt_gestuft_fin_02.fmu)
 
 #4 OpenModelica Package for step-by-step build-up of the model (Furuta_Steps.mo)
 
