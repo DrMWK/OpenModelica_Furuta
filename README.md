@@ -27,7 +27,6 @@ Inhalt
 Hinweis: Konstruktive Ausführung und Abmessungen des Pendels orientieren sich am folgenden Furuta-Pendel bzw. Modell einschließlich CAD-Daten:
 www.github.com/bgkatz/Furuta-Pendulum
 
-Lizenz
 
 Copyright (c) 2026 DrMWK
 
@@ -37,6 +36,8 @@ Der oben genannte Copyright-Hinweis sowie dieser Genehmigungstext müssen in all
 
 DIE SOFTWARE WIRD „WIE BESEHEN“ BEREITGESTELLT, OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG. DIES SCHLIESST UNTER ANDEREM DIE GEWÄHRLEISTUNGEN DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER AUS. IN KEINEM FALL HAFTEN DIE AUTOREN ODER COPYRIGHT-INHABER FÜR ANSPRÜCHE, SCHÄDEN ODER SONSTIGE VERPFLICHTUNGEN, SEI ES AUS VERTRAG, UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE SICH AUS DER SOFTWARE ODER IHRER NUTZUNG ODER AUS SONSTIGEN VORGÄNGEN IM ZUSAMMENHANG MIT DER SOFTWARE ERGEBEN.
 
+
+===================================================================================================================
 
 
 Model of a Furuta Pendelum in OpenModelica for potential didactic use 
