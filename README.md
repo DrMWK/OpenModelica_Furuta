@@ -3,7 +3,7 @@ Modell eines Furuta-Pendels in OpenModelica für Anwendungen in der Lehre
 
 Inhalt
 
-#1 OpenModelica-Paket (>>>>>!!!!!!!!!!!!!!!<<<<<<), bestehend aus:
+#1 OpenModelica-Paket (Furuta_V07.mo), bestehend aus:
 - mechanisches Teilmodell des Pendels (OpenModelica/Multibody)
 - Teilmodell Aktuator-(Unter-)Modell mit drei Abstraktionsstufen:
    - ideal
@@ -13,7 +13,7 @@ Inhalt
 - Gesamtsystem einschließlich einer (einfachen) Regelung im geschlossenen Regelkreis
 
 #2 FMU des mechanischen Teilmodells
-(Pendel_Mechanik_fin_02.fmu)
+(Pendel_Mechanik_fin_04.fmu)
 
 #3 FMU des dreistufigen Aktuatormodells
 (Akt_gestuft_fin_03.fmu)
@@ -45,12 +45,12 @@ Model of a Furuta Pendelum in OpenModelica for potential didactic use
 
 Content
 
-#1 OpenModelica Package (>>>>>!!!!!!!!!!!!!!!<<<<<<) including
+#1 OpenModelica Package (Furuta_V07.mo) including
 - mechanic (sub)model of the pendelum (OpenModelica/Multibody)
 - actuator (sub)model with 3 degrees of abstraction (ideal/including dynamic response/enhanced; no detailed electro-dynamic modeling)
 - entire system including a (simple) closed loop control
 
-#2 FMU of the mechanic model (Pendel_Mechanik_fin_02.fmu)
+#2 FMU of the mechanic model (Pendel_Mechanik_fin_04.fmu)
 
 #3 FMU of the 3 level actuator model (Akt_gestuft_fin_03.fmu)
 
