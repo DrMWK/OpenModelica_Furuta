@@ -16,13 +16,13 @@ Inhalt
 (Pendel_Mechanik_fin_02.fmu)
 
 #3 FMU des dreistufigen Aktuatormodells
-(Akt_gestuft_fin_02.fmu)
+(Akt_gestuft_fin_03.fmu)
 
 #4 OpenModelica-Paket zum Schritt-für-Schritt Aufbau des Modells
 (Furuta_Steps.mo)
 
 #5 Python-Skript zur Visualisierung der Drehmoment-Sprungantwort des Aktuatormodells
-(Charac_Akt_V04.py)
+(Charac_Akt_V06.py)
 
 Hinweis: Konstruktive Ausführung und Abmessungen des Pendels orientieren sich am folgenden Furuta-Pendel bzw. Modell einschließlich CAD-Daten:
 www.github.com/bgkatz/Furuta-Pendulum
@@ -52,11 +52,11 @@ Content
 
 #2 FMU of the mechanic model (Pendel_Mechanik_fin_02.fmu)
 
-#3 FMU of the 3 level actuator model (Akt_gestuft_fin_02.fmu)
+#3 FMU of the 3 level actuator model (Akt_gestuft_fin_03.fmu)
 
 #4 OpenModelica Package for step-by-step build-up of the model (Furuta_Steps.mo)
 
-#5 Python Script for visualizing the torque step response of the actuator model (Charac_Akt_V04.py)
+#5 Python Script for visualizing the torque step response of the actuator model (Charac_Akt_V06.py)
 
 
 Remark: design and dimensions of the pendelum are oriented on the following Furuta pendelum / model including CAD data:
