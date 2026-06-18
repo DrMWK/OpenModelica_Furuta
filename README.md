@@ -27,6 +27,9 @@ Inhalt
 #5 Python-Skript zur Visualisierung der Drehmoment-Sprungantwort des Aktuatormodells
 (Charac_Akt_V06.py)
 
+#6 Python-Skripte zur Erzeugung von Auswerte-Charts auf Basis von CSV-Ergebnisdateien aus OpenModelica
+(Charts_Python_Skript.zip)
+
 Hinweis: Konstruktive Ausführung und Abmessungen des Pendels orientieren sich am folgenden Furuta-Pendel bzw. Modell einschließlich CAD-Daten:
 www.github.com/bgkatz/Furuta-Pendulum
 
