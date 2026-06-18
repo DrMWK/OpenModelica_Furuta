@@ -29,6 +29,7 @@ Inhalt
 
 #6 Python-Skripte zur Erzeugung von Auswerte-Charts auf Basis von CSV-Ergebnisdateien aus OpenModelica
 (Charts_Python_Skript.zip)
+erforderliche Bibliotheken installieren: "pip install fmpy matplotlib pandas numpy"
 
 Hinweis: Konstruktive Ausführung und Abmessungen des Pendels orientieren sich am folgenden Furuta-Pendel bzw. Modell einschließlich CAD-Daten:
 www.github.com/bgkatz/Furuta-Pendulum
