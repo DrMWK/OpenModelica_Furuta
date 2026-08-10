@@ -1,4 +1,4 @@
-# OpenModelica_Furuta - still under construction
+# OpenModelica_Furuta 
 Modell eines Furuta-Pendels in OpenModelica für Anwendungen in der Lehre
 
 Inhalt
